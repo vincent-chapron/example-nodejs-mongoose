@@ -1,0 +1,19 @@
+{
+  "name": "formation-nodejs-mongo",
+  "version": "1.0.0-dev",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Vincent CHAPRON",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
